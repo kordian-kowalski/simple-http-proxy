@@ -1,4 +1,4 @@
-# simple-nginx-proxy
+# simple-http-proxy
 
 Simply routes HTTP traffic to a target, specified by its DNS name.
 
