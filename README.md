@@ -14,5 +14,5 @@ Configured by a single env variable: `TARGET`
 docker run \
   -p 80:80 \
   -e "TARGET=example.com" \
-  kordiankowalski/simple-nginx-proxy
+  kordiankowalski/simple-http-proxy
 ```
